@@ -1,0 +1,84 @@
+# labels_fr.txt — Traductions françaises des classes COCO
+# Encodage : UTF-8 (obligatoire pour les accents)
+# Format : une ligne par classe, index implicite (ligne 0 = classe 0)
+# ─────────────────────────────────────────────────────────────────
+personne
+vélo
+voiture
+moto
+avion
+bus
+train
+camion
+bateau
+feu de circulation
+bouche d'incendie
+panneau stop
+parcmètre
+banc
+oiseau
+chat
+chien
+cheval
+mouton
+vache
+éléphant
+ours
+zèbre
+girafe
+sac à dos
+parapluie
+sac à main
+cravate
+valise
+frisbee
+skis
+snowboard
+ballon de sport
+cerf-volant
+batte de baseball
+gant de baseball
+skateboard
+surf
+raquette de tennis
+bouteille
+verre de vin
+tasse
+fourchette
+couteau
+cuillère
+bol
+banane
+pomme
+sandwich
+orange
+brocoli
+carotte
+hot-dog
+pizza
+beignet
+gâteau
+chaise
+canapé
+plante en pot
+lit
+table à manger
+toilettes
+télévision
+ordinateur portable
+souris
+télécommande
+clavier
+téléphone portable
+micro-ondes
+four
+grille-pain
+évier
+réfrigérateur
+livre
+horloge
+vase
+ciseaux
+ours en peluche
+sèche-cheveux
+brosse à dents

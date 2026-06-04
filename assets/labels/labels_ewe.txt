@@ -1,0 +1,92 @@
+# labels_ewe.txt — Traductions en langue Ewe (Èvègbe) des classes COCO
+#
+# ENCODAGE : UTF-8 strict — obligatoire.
+# L'alphabet Ewe utilise des caractères spéciaux :
+#   ɖ  ƒ  ɣ  ŋ  ɔ  ʋ  Ɖ  Ƒ  Ɣ  Ŋ  Ɔ  Ʋ
+#   + marques tonales : à á ā ǎ (grave, aigu, macron, caron)
+#
+# Format : une ligne par classe, index implicite (ligne 0 = classe 0)
+# Lignes commençant par # sont ignorées au chargement.
+# ─────────────────────────────────────────────────────────────────
+ame
+akuma
+gōlō
+keke
+vɔvɔ
+trotro
+tren
+lɔlɔ̃ gōlō
+tsi ƒe gōlō
+kplɔkplɔ̃ tsitre
+tsi dɔwɔnu
+ɖoɖo ŋutilã
+tsi akpa
+xɔme asi
+xɔsi
+ɣli
+avu
+ŋɔ
+blema
+nɔvi ga
+adanko
+nyi
+vivi
+girafa
+agbagba
+akɔ
+asi agbagba
+ŋutsu ƒe agbagba
+agbatã
+frisbee
+skis
+snowboard
+sɛsrɛtɔ ƒe bɔbɔ
+hagbe
+baseball ƒe tõ
+baseball ƒe asi agbagba
+skateboard
+surfboard
+tennis ƒe tõ
+ʋi
+ɣlɔ̃ ʋi
+ko
+ganu ƒe tɔ
+asikpetsi
+nusrɔe
+sakpata
+apeti
+gɔme
+akɔ ƒe ʋiwo
+owula
+sandwich
+olutã
+broccoli
+akɔ ʋi
+hot-dog
+pizza
+donut
+tɔxɔxɔ
+alɔgã
+xɔdɔwɔnu
+ati ʋi
+dzɔdzoe
+ƒometo
+ewu ɖe dzi tõ
+tivi
+kɔmputa
+mus
+kplɔkplɔ̃ ƒe dɔwɔnu
+klavye
+fon
+fodo dɔwɔnu
+fodo
+tostu dɔwɔnu
+tsi ɖe ŋu ɖoku
+fodo yome
+agbalẽ
+gaƒoƒo
+ʋa ʋi
+asikpui
+ŋutsu ƒe ɣlɔ̃ ʋi
+ƒu dɔwɔnu
+nu ƒo mi dɔwɔnu

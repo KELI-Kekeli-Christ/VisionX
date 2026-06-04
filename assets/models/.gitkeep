@@ -1,0 +1,4 @@
+# Placer ici les fichiers .tflite :
+#   detect_en.tflite  — SSD MobileNet v2 entraîné sur COCO (EN)
+#   detect_fr.tflite  — (à venir)
+#   detect_ewe.tflite — (à venir)
